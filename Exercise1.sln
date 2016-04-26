@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1", "Exercise1\Exer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{6D4C9642-C1A2-414C-90CA-CDCEF2494EA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payment", "Payment\Payment.csproj", "{768ECDBC-4BBE-433E-BA78-80994B990B65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6D4C9642-C1A2-414C-90CA-CDCEF2494EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D4C9642-C1A2-414C-90CA-CDCEF2494EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D4C9642-C1A2-414C-90CA-CDCEF2494EA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768ECDBC-4BBE-433E-BA78-80994B990B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768ECDBC-4BBE-433E-BA78-80994B990B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768ECDBC-4BBE-433E-BA78-80994B990B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768ECDBC-4BBE-433E-BA78-80994B990B65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
