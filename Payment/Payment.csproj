@@ -52,6 +52,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IUserService.cs" />
     <Compile Include="PaymentDetails.cs" />
     <Compile Include="PaymentService.cs" />
     <Compile Include="PaymentServiceShould.cs" />
